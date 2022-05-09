@@ -1,0 +1,15 @@
+C:\Users\Hüseyin\Desktop\Pratikler\Donguler-While-Forech\bin\Debug\net6.0\Donguler-While-Forech.exe
+C:\Users\Hüseyin\Desktop\Pratikler\Donguler-While-Forech\bin\Debug\net6.0\Donguler-While-Forech.deps.json
+C:\Users\Hüseyin\Desktop\Pratikler\Donguler-While-Forech\bin\Debug\net6.0\Donguler-While-Forech.runtimeconfig.json
+C:\Users\Hüseyin\Desktop\Pratikler\Donguler-While-Forech\bin\Debug\net6.0\Donguler-While-Forech.dll
+C:\Users\Hüseyin\Desktop\Pratikler\Donguler-While-Forech\bin\Debug\net6.0\Donguler-While-Forech.pdb
+C:\Users\Hüseyin\Desktop\Pratikler\Donguler-While-Forech\obj\Debug\net6.0\Donguler-While-Forech.csproj.AssemblyReference.cache
+C:\Users\Hüseyin\Desktop\Pratikler\Donguler-While-Forech\obj\Debug\net6.0\Donguler-While-Forech.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hüseyin\Desktop\Pratikler\Donguler-While-Forech\obj\Debug\net6.0\Donguler-While-Forech.AssemblyInfoInputs.cache
+C:\Users\Hüseyin\Desktop\Pratikler\Donguler-While-Forech\obj\Debug\net6.0\Donguler-While-Forech.AssemblyInfo.cs
+C:\Users\Hüseyin\Desktop\Pratikler\Donguler-While-Forech\obj\Debug\net6.0\Donguler-While-Forech.csproj.CoreCompileInputs.cache
+C:\Users\Hüseyin\Desktop\Pratikler\Donguler-While-Forech\obj\Debug\net6.0\Donguler-While-Forech.dll
+C:\Users\Hüseyin\Desktop\Pratikler\Donguler-While-Forech\obj\Debug\net6.0\refint\Donguler-While-Forech.dll
+C:\Users\Hüseyin\Desktop\Pratikler\Donguler-While-Forech\obj\Debug\net6.0\Donguler-While-Forech.pdb
+C:\Users\Hüseyin\Desktop\Pratikler\Donguler-While-Forech\obj\Debug\net6.0\Donguler-While-Forech.genruntimeconfig.cache
+C:\Users\Hüseyin\Desktop\Pratikler\Donguler-While-Forech\obj\Debug\net6.0\ref\Donguler-While-Forech.dll
